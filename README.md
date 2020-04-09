@@ -18,7 +18,7 @@ Made By binjoo;Fixed By QuellaMC
 
  1. 下载插件
 
-   直接下载解压，或者在/typecho/usr/plugins目录下git clone https://github.com/holmesian/WeChatHelper.git
+   直接下载解压，或者在/typecho/usr/plugins目录下git clone https://github.com/QuellaMC/WeChatHelper.git
 
  2. 登陆Typecho后台，在“控制台”下拉菜单中进入“插件管理”，启用插件。
 
